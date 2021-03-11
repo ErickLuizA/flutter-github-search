@@ -34,7 +34,7 @@
 
 ## :clipboard: Description
 
-github_search a app to search people in github built with flutter
+github_search is a app to search people in github built with flutter
 
 
 ## :building_construction: Technologies
