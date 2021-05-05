@@ -1,7 +1,3 @@
-<p align="center"> 
-  <img alt="github_search icon" src="./assets/logo-horizontal.svg"  width="280"/>
-</p>
-
 <h1 align="center"> github_search </h1>
 
 <p align="center">
@@ -27,7 +23,7 @@
   <a href="#clipboard-description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#building_construction-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#framed_picture-screenshots">Screenshots</a>
 </p>
 
@@ -41,6 +37,7 @@ github_search is a app to search people in github built with flutter
 
 - [Flutter](https://flutter.dev/)
   - [dartz](https://pub.dev/packages/dartz)
+  - [http](https://pub.dev/packages/http)
   - [provider](https://pub.dev/packages/provider)
   - [flutter_svg](https://pub.dev/packages/flutter_svg)
 
@@ -80,8 +77,8 @@ $ flutter run
 ## :framed_picture: Screenshots
 
 <div>
-  <img alt="github_search screen" src="./assets/home_screen.png"  width="200"/>
-  <img alt="github_search screen" src="./assets/details_screen.png"  width="200"/>
+  <img alt="github_search screen" src="./.github/home_screen.png"  width="200"/>
+  <img alt="github_search screen" src="./.github/details_screen.png"  width="200"/>
 </div>
 
 ## :memo: License
