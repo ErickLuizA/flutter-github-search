@@ -1,7 +1,7 @@
-<h1 align="center"> github_search </h1>
+<h1 align="center"> flutter-github-search </h1>
 
 <p align="center">
-  <a href="https://github.com/ErickLuizA/github_search/graphs/commit-activity" alt="Maintenance">
+  <a href="https://github.com/ErickLuizA/flutter-github-search/graphs/commit-activity" alt="Maintenance">
     <img src="https://img.shields.io/badge/Maintained%3F-yes-1EAE72.svg" />
   </a>
 
@@ -11,12 +11,12 @@
 
 <br/>
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ErickLuizA/github_search?color=blue">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ErickLuizA/flutter-github-search?color=blue">
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ErickLuizA/github_search">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ErickLuizA/flutter-github-search">
 
-<a href="https://github.com/ErickLuizA/github_search/stargazers">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/ErickLuizA/github_search?style=social">
+<a href="https://github.com/ErickLuizA/flutter-github-search/stargazers">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/ErickLuizA/flutter-github-search?style=social">
 </a>
 
 <p align="center">
@@ -27,11 +27,9 @@
   <a href="#framed_picture-screenshots">Screenshots</a>
 </p>
 
-
 ## :clipboard: Description
 
-github_search is a app to search people in github built with flutter
-
+flutter-github-search is a app to search people in github built with flutter
 
 ## :building_construction: Technologies
 
@@ -41,27 +39,26 @@ github_search is a app to search people in github built with flutter
   - [provider](https://pub.dev/packages/provider)
   - [flutter_svg](https://pub.dev/packages/flutter_svg)
 
-
 ## :rocket: Getting Started
 
 ## 1. Download the repository
 
 ```shell
- $ git clone https://github.com/ErickLuizA/github_search.git
-  
-  or 
+ $ git clone https://github.com/ErickLuizA/flutter-github-search.git
 
- $ gh repo clone ErickLuizA/github_search
+  or
+
+ $ gh repo clone ErickLuizA/flutter-github-search
 ```
 
 ## 2. Installation
 
 ```shell
 # Go into the repository
-$ cd github_search
+$ cd flutter-github-search
 
 # Install dependencies
-$ flutter pub get 
+$ flutter pub get
 
 # or just use your IDE
 ```
@@ -77,12 +74,11 @@ $ flutter run
 ## :framed_picture: Screenshots
 
 <div>
-  <img alt="github_search screen" src="./.github/home_screen.png"  width="200"/>
-  <img alt="github_search screen" src="./.github/details_screen.png"  width="200"/>
+  <img alt="flutter-github-search screen" src="./.github/home_screen.png"  width="200"/>
+  <img alt="flutter-github-search screen" src="./.github/details_screen.png"  width="200"/>
 </div>
 
 ## :memo: License
-
 
 This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
 
